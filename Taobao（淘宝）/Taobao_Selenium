@@ -1,0 +1,14 @@
+English: 
+This is a framework of Selenium spider Taobao. 
+When the program starts, it will open Chrome browser and enter the frontpage of Taobao, enter key words, and spider by pages.
+During the spidering, the user need to login Taobao account once.
+The user need to change the location of attributes(the desired info of goods) on the webpage in CSS.
+Of course, the user need to change the keywords they want to search with.
+
+
+中文：
+这是一个使用Selenium的爬虫框架，用以爬取淘宝页面内容。
+开始程序后，爬虫将自动打开chrome浏览器，并进入淘宝首页，输入关键字，开始逐页爬取
+爬取过程中，使用者需要登陆一次淘宝账户。
+使用者需要根据所需要的商品信息在网页中的位置来改变代码的对应部分
+当然，也需要改变搜索的关键字
